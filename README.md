@@ -42,17 +42,17 @@ of configuration files in the future.
 <ul>
 <li>
 <span>
-<a href="https://rust-lang.github.io/rustfmt/">Rustfmt documentation</a>
+<a href="https://rust-lang.github.io/rustfmt/"><b>Rustfmt</b> documentation</a>
 </span>
 </li>
 <li>
 <span>
-<a href="https://zed.dev/docs/extensions/">Zed extension documentation</a>
+<a href="https://zed.dev/docs/extensions/"><b>Zed</b> extension documentation</a>
 </span>
 </li>
 <li>
 <span>
-<a href="https://github.com/zed-industries/zed/">Zed source-code</a>
+<a href="https://github.com/zed-industries/zed/"><b>Zed</b> source-code</a>
 </span>
 </li>
 </ul>
