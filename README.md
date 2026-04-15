@@ -14,7 +14,16 @@ Rustfmt Language Server
 </div>
 
 <div align="center">
+<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/MysticalMike60t/rustfmt-lsp-server/release.yml">
+<img alt="Deps.rs Repository Dependencies" src="https://img.shields.io/deps-rs/repo/github/MysticalMike60t/rustfmt-lsp-server">
+</div>
+
+<div align="center">
+<img alt="GitHub License" src="https://img.shields.io/github/license/MysticalMike60t/rustfmt-lsp-server">
 <img alt="GitHub commits since latest release" src="https://img.shields.io/github/commits-since/MysticalMike60t/rustfmt-lsp-server/latest?sort=semver&style=plastic">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MysticalMike60t/rustfmt-lsp-server">
+<img alt="GitHub repo file or directory count" src="https://img.shields.io/github/directory-file-count/MysticalMike60t/rustfmt-lsp-server">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MysticalMike60t/rustfmt-lsp-server">
 </div>
 
 <div>
