@@ -33,8 +33,8 @@ Configurations Language Server
 <h2>Current supported files</h2>
 <p>Last updated on <b>16/04/2026</b></p>
 <ol>
-<li>`rustfmt.toml` <sub id="fb1"><a href="#f1">1</a></sub></li>
-<li>`.rustfmt.toml` <sub id="fb1"><a href="#f1">1</a></sub></li>
+<li><code>rustfmt.toml</code> <sup id="fb1"><a href="#f1">1</a></sup></li>
+<li><code>.rustfmt.toml</code> <sup id="fb1"><a href="#f1">1</a></sup></li>
 </ol>
 </div>
 
