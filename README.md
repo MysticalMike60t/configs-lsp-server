@@ -49,10 +49,7 @@ of configuration files in the future.
 </p>
 </div>
 
-<br />
-<br />
 <hr />
-<br />
 
 <div id="document-footnote">
 <ol>
