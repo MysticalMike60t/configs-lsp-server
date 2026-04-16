@@ -81,6 +81,7 @@ This also includes <i>all</i> files inside of the <code>.dev/</code> folder.
 <p name="footnote-2-content">
 <span><a href="#fb2">↩</a> <b>Development specific usage</b>:</span>
 <br />
+<br />
 <span><strong>Code, folders, etc; made specifically for developers, and <i>not</i> end-users.</strong></span>
 <span>All of these files can be deleted, and the <i>language server</i> will work as expected.</span>
 <span>If it <strong>does</strong> make an impact on the main functionality, please <a href="https://github.com/MysticalMike60t/configs-lsp-server/issues/new/choose">Open an Issue</a>.</span>
