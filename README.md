@@ -79,7 +79,7 @@ This also includes <i>all</i> files inside of the <code>.dev/</code> folder.
 </li>
 <li name="footnote-2" id="f2">
 <p name="footnote-2-content">
-<span><a href="#fb2">↩</a> <b>Development specific usage</b></span>
+<span><a href="#fb2">↩</a> <b>Development specific usage</b>:</span>
 <br />
 <span><strong>Code, folders, etc; made specifically for developers, and <i>not</i> end-users.</strong></span>
 <span>All of these files can be deleted, and the <i>language server</i> will work as expected.</span>
